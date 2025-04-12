@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+  }
+  
+  .menu-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: #222;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 5px;
+  }
+  
+  .restaurant-name {
+    text-align: center;
+    font-style: italic;
+    color: #ccc;
+    margin-bottom: 30px;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .section-title {
+    background: orange;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #333;
+  }
+  
+  .contact {
+    text-align: center;
+    border-top: 1px solid #444;
+    padding-top: 20px;
+    color: #aaa;
+  }
+  
